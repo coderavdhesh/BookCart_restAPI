@@ -66,7 +66,7 @@ You can test them using postman or any other rest client.
 
 You can find the tutorial/Explanation video for this web application(API) on my youtube account -
 
-    --->    https://youtu.be/86v93c6cG0Q
+   https://youtu.be/86v93c6cG0Q
 
 
 ## Know More
