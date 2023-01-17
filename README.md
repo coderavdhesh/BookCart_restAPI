@@ -95,14 +95,15 @@ Web requests and URLs which helps to perform Get/Post/Put/Delete [CRUD operation
     -> 'localhost:7676/books/{id}', it is also a Dynamic request, helps to Delete the already existing datasets in our database, if the dataset is not available in out database than the code will handle the exception and return the response error of 'NO_CONTENT'.
 -----------------------------------------------------------------------------------------------
                                     Key Learnings:
-1. How the Things are actually working in Backend.
+ ## Tech Stacks :
+  Springboot, Spring Data JPA, MySQL Database, SQL, Postman client tool, Java, Spring annotations, Spring MVC(controllers, HTTP URIs), classpath & dependencies, configuration, etc.                     
+1. How things are actually working in Backend, Layers in the backend development.
 2. Familiar with SpringBoot-Architectural Layers and how they are working together to get the
-   data from database to the end user.
-3. How we can connect our API with our Database with the help of JPA and perform the CRUDs on 
-   your API.
-4. Get familiar with the CRUD methonds of JPA repo and Database configrations.
-5. How we can test/cheack the working of our backend service/APIs with 'POSTMAN TOOL'
-6. More clearity in core Java concepts.
+   data from the database to the end user.
+3. How we can connect our API with our Database with the help of Spring Data JPA and with full functionality of CRUDs with your APIs.
+4. Got familiar with the CRUD methods of JPA repo and Database configurations.
+5. How we can test/check the working of our backend service/APIs using 'POSTMAN TOOL'
+6. More clarity in core Java concepts.
 -----------------------------------------------------------------------------------------------
                             Used Tools and other Services: 
 1. Postman API tool to get the reponses.
