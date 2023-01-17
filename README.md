@@ -1,5 +1,5 @@
 # Spring boot and MySQL restful API for the online book stores
-A simple restfulAPI built with Spring boot that connects to the MySQL database using JPA repository. Application built using spring data JPA to perform database operations. Users can add, list, update and delete(CRUD operations) for online Book store.
+A restfulAPI built with Spring boot that connects to the MySQL database using JPA repository. Application built using spring data JPA to perform database operations. Users can add, list, update and delete(CRUD operations) for online Book store.
 
 ## Requirements
 
