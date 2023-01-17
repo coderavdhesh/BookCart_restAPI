@@ -71,9 +71,9 @@ You can find the tutorial/Explanation video for this web application(API) on my 
 
 ## Know More
 
------------------------------------------------------------------------------------------------
-                    ONLINE BOOK STORE RESTFUL API - BOOKCART
------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+                     RESTFUL API for ONLINE BOOK STORE - BOOKCART
+------------------------------------------------------------------------------------------
 Project Name : BookData_restAPI for the online BookStores
 Project aim : This API helps to fatch data and also performed CRUD operations to make our website/apps updated with the correct DataSets.
 -----------------------------------------------------------------------------------------------
