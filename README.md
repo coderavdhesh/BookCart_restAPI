@@ -62,7 +62,7 @@ The app defines following CRUD APIs.
 You can test them using postman or any other rest client.
 
 
-## Learn more
+## Live demo video link
 
 You can find the tutorial/Explanation video for this web application(API) on my youtube account -
 
